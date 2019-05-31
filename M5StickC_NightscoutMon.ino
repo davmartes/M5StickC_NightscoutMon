@@ -62,9 +62,9 @@ void startupLogo() {
     M5.Axp.ScreenBreath(0);
     if(cfg.bootPic[0]==0) {
       // M5.Lcd.pushImage(0, 0, 160, 80, (uint16_t *)gImage_logoM5);
-      M5.Lcd.drawString("RENAULT Megane", 36, 10, 2);
-      M5.Lcd.drawString("TYRES MONITOR", 36, 22, 2);
-      M5.Lcd.drawString("(c) 2019", 55, 50, 2);
+      M5.Lcd.drawString("M5 Stack", 55, 10, 2);
+      M5.Lcd.drawString("Nightscout monitor", 25, 22, 2);
+      M5.Lcd.drawString("(c) 2019 Martin Lukasek", 0, 50, 2);
     } else {
       // M5.Lcd.drawJpgFile(SD, cfg.bootPic);
     }
