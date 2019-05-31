@@ -1,3 +1,19 @@
+Customized version of M5StickC_NightscoutMon by Martin Lukasek (mlukasek).
+
+In this version the changes are:
+- no COB
+- no IOB
+- bigger time ago section
+- bigger delta section
+- grid lines across the screen
+- mask rectangle was missing in original version behind delta section
+- different color code of rectangle behind time ago section
+- bigger and square color rectangle behind time ago section
+
+
+ORIGINAL README FILE BY MARTIN LUKASEK:
+
+
 # M5StickC_NightscoutMon
 ## M5StickC Nightscout monitor
 
