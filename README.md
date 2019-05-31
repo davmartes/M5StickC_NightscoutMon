@@ -10,6 +10,7 @@ In this version the changes are:
 - different color code of rectangle behind time ago section
 - bigger and square color rectangle behind time ago section
 
+https://github.com/davmartes/M5StickC_NightscoutMon/blob/master/IMG_55692.jpg
 
 ORIGINAL README FILE BY MARTIN LUKASEK:
 
